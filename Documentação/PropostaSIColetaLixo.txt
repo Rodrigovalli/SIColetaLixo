@@ -18,3 +18,5 @@ E na execução serão realizadas as atividades confirmadas
 
 Durante os ciclos o cliente acompanha o projeto e pode requisitar mudanças ao decorrer do projeto em cada etapa. 
 
+3- Com a utilização de processos ágeis o SCRUM pode ser aplicado ao projeto. Com ele é mais facil administrar
+as tarefas designadas a cada integrante do projeto assim melhorando a eficiencia e a qualidade do produto final.
