@@ -1,0 +1,20 @@
+Rodrigo Valli Pereira Da Costa 
+2SIa 
+Rm 83173
+2 - O modelo adequado para esse projeto é o espiral, pois o chefe ainda não tem claro se precisará de outros 
+recursos no sistema de informação e que sejamos flexiveis quanto a possibilidade de mudanças no escopo e ainda
+quer receber algum recurso o quanto antes para utilização. Esse modelo tem a vantagem de não ser linear e
+possibilitar flexibilidade e adaptabilidade ao decorrer do projeto e também podem ser desenvolvidas várias etapas 
+ao mesmo tempo. Nele as fases são Planejamento, Análise de Riscos, Verificação e Execução.
+
+No planejamento serão definidas as tarefas de cada membro do time e o prazo de entrega.
+
+Na análise de riscos serao determinados os principais riscos que podem afetar o projeto e os possiveis impactos 
+deles.
+
+Na verificação será avaliada a qualidade técnica e percebida pelo cliente
+
+E na execução serão realizadas as atividades confirmadas
+
+Durante os ciclos o cliente acompanha o projeto e pode requisitar mudanças ao decorrer do projeto em cada etapa. 
+
