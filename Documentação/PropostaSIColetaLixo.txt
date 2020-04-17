@@ -20,3 +20,16 @@ Durante os ciclos o cliente acompanha o projeto e pode requisitar mudanças ao d
 
 3- Com a utilização de processos ágeis o SCRUM pode ser aplicado ao projeto. Com ele é mais facil administrar
 as tarefas designadas a cada integrante do projeto assim melhorando a eficiencia e a qualidade do produto final.
+
+4- A base do time SCRUM é Scrum Master, Product Owner e Equipe.
+
+Scrum Master : Um unico por time, é responsável por remover os impedimentos do time e garantir o uso do ágil
+
+Product Owner : Um unico por time,é responsável por conhecer as nececidades dos cliente e garantir o retorno de 
+investimento
+
+Equipe : Definir metas das iteraçoes, Auto gerenciamento e produzir o produto com qualidade e vlaor para o cliente
+
+
+Ao final de cada ciclo será realizado uma reuniao para que seja revisado tudo que tenha sido feito e evitar 
+problemas e riscos que gerem atrasos.
